@@ -1,0 +1,12 @@
+{
+  "name": "node10",
+  "version": "1.0.0",
+  "description": "These are the examples for the Node 10 presentation to JaxNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node", "node.js", "Version 10"],
+  "author": "David Fekke <david@fekke.com>",
+  "license": "Apache-2.0"
+}
